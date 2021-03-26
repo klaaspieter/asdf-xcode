@@ -1,0 +1,3 @@
+#!/bin/sh
+
+xcodes list --no-color |  tr -d '\n'
