@@ -2,7 +2,7 @@
 
 Xcode plugin for [asdf] version manager
 
-⚠️ Work in progress. See [#2] for more information.
+⚠️ Work in progress. This supports downloading and installing Xcodes but not setting their version using `.tool-versions`. See [#2] for more information. In the meantime I suggest using [xcodes] combined with [chxcode].
 
 ## Install
 
@@ -27,3 +27,4 @@ See [asdf documentation] for instructions on how to install and manage Xcode ver
 [`.tool-versions`]: https://asdf-vm.com/#/core-configuration?id=tool-versions
 [xcodes]: https://github.com/RobotsAndPencils/xcodes
 [#2]: https://github.com/klaaspieter/asdf-xcode/issues/2
+[chxcode]: https://github.com/klaaspieter/chxcode
