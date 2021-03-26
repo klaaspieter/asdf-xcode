@@ -1,0 +1,3 @@
+#!/bin/sh
+
+xcodes install --directory "$ASDF_DOWNLOAD_PATH" "$ASDF_INSTALL_VERSION"
